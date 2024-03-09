@@ -1,5 +1,3 @@
-
-```markdown
 # Project Setup Script
 
 ## Purpose
@@ -63,5 +61,3 @@ nodeApp <project_directory> <database_package> [port]
 ```
 
 Note: You may need to use `sudo` for the `mv` command if you encounter permission issues.
-
-```
